@@ -1,4 +1,4 @@
-![image](https://github.com/Vijayalakshmi230/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/127175503/edd325c9-9cf6-4f0e-a73d-4b8ecb157a3f)# Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu
+ Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu
 
 ## AIM
 
